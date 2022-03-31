@@ -1,0 +1,16 @@
+
+public class Roll {
+
+	public static void main(String[] args) {
+		
+		
+		
+		System.out.print("How many sides should eat die have?: ");
+		
+	}
+	
+	public static int generateRandomDieRoll(int numSides) {
+		
+		
+	}
+}
