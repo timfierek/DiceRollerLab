@@ -76,7 +76,7 @@ public class Roll {
 	 * @return   true if user enters 'y', false otherwise
 	 */
 	public static boolean askRollAgain(Scanner in) {
-		System.out.print("\nRoll again? (y/n): ");
+		System.out.print("Roll again? (y/n): ");
 		return (in.next().equalsIgnoreCase("y"));
 	}
 }
